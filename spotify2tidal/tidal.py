@@ -1,6 +1,7 @@
 import logging
 import requests
 import tidalapi
+import webbrowser
 
 
 class Tidal:
